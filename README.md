@@ -138,5 +138,6 @@ Este projeto demonstra conceitos fundamentais de:
 - Programação em C# com Windows Forms
 - Manipulação de Dados Binários
 
+![image](https://github.com/user-attachments/assets/b29cc5e1-4b50-49bc-94c4-ec474c014b84)
 
 ---
